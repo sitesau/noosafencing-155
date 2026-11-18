@@ -1,0 +1,22 @@
+{
+  "wheel_id": 928,
+  "structure": "umbrella",
+  "slug": "noosafencing-155",
+  "project": "fencing-contractors-noosa-seasonal-timing-091a93c7df6d7782ba556",
+  "parent_t1_ref": "noosafencing-009",
+  "node_role": "buffer",
+  "money_target": "noosafencing.com.au",
+  "primary_kw": "fencing contractors noosa seasonal timing",
+  "intended_url": "http://fencing-contractors-noosa-seasonal-timing-091a93c7df6d7782ba556.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "6803a1c4f79681a6",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/fencing-contractors-noosa-009/",
+      "anchor": "Fencing Contractors Noosa: Practical Local Buying Notes",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
